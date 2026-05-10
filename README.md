@@ -1,20 +1,6 @@
-# Atividade-sos
-## 1️⃣ pubspec.yaml
+# Atividade-so
 
-Adicione a dependência:
 
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  shared_preferences: ^2.2.2
-```
-
----
-
-# 2️⃣ lib/main.dart
-
-```dart
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
